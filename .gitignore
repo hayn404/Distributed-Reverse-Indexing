@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Hadoop / generated output
+output/
+output_index/
+logs/
+tmp/
+
+# OS/editor
+.DS_Store
+Thumbs.db
